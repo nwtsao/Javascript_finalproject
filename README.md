@@ -1,4 +1,4 @@
-# 🕹️ 專案 README：經典小精靈遊戲 (Classic Pac-Man Game)
+# 小精靈遊戲 (Classic Pac-Man Game)
 
 ## 🎯 專案簡介 (Overview)
 
